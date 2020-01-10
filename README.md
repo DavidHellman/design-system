@@ -8,10 +8,14 @@ The template serves as a rough guideline for elements often used in design and d
 
 ### Includes ###
 
-* Space sizing
+ 
+
 * Fonts, font weights, line width and line heights
-* Font sizing
+* Font scale
+* Type scale
 * Primary, secondary and accent colors
-* Opacity scales
-* Shadow scales
-* Border scales
+* Opacity scale
+* Border scale
+* Space scale
+* Grids
+* Shadow scale
